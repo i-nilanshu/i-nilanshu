@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @i-nilanshu
-- 👀 I’m interested in automation and security, cloud, mobile apps devlopment.
+- 👀 I’m interested in automation and security, cloud, mobile and web apps devlopment.
 - 🌱 I’m currently persuing my master's in computer application(MCA)
 - 💞️ I’m looking to collaborate on automation and security, cloud, mobile apps devlopment.
 - 📫 How to reach me .... you can message me @ i_nilanshu(Telegram,inta,twitter)
